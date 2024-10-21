@@ -2,7 +2,7 @@
 
 **Notes**
 
-> Oct 21, 2024 - This repository has recently been transferred to the University of Alabama Libraries Research Data Services GitHub organization. 
+> Oct 21, 2024 - This repository has recently been transferred from The University of Alabama Libraries Web Services GitHub to The University of Alabama Libraries Research Data Services GitHub organization.
 > If you notice any incorrect hyperlinks within the content, please let us know.
 
 
