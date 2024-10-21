@@ -3,7 +3,7 @@
 **Notes**
 
 > Oct 21, 2024 - This repository has recently been transferred from The University of Alabama Libraries Web Services GitHub to The University of Alabama Libraries Research Data Services GitHub organization.
-> If you notice any incorrect hyperlinks within the content, please let us know.
+> All GitHub related hyperlinks should automatically redirect to the new GitHub location, but if you notice anything that is not working correctly, please let us know.
 
 
 Supporting materials for UA Libraries selected workshops.
