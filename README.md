@@ -8,6 +8,10 @@
 
 Supporting materials for UA Libraries selected workshops.
 
+## Python Introduction - Fall 2024
+
+   * [Introduction to Python](https://github.com/UA-Libraries-Research-Data-Services/UALIB_Workshops/blob/master/11_fall_2024/python_intro_fall24.ipynb)
+
 ## Network Analysis ADHC Co-words - Spring 2023
 
    * [Networks Folder](https://github.com/ualibweb/UALIB_Workshops/tree/master/09_Networks/ADHC)
