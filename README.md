@@ -5,6 +5,9 @@
 > Oct 21, 2024 - This repository has recently been transferred from The University of Alabama Libraries Web Services GitHub to The University of Alabama Libraries Research Data Services GitHub organization.
 > All GitHub related hyperlinks should automatically redirect to the new GitHub location, but if you notice anything that is not working correctly, please let us know.
 
+**License and Software Usage Notice**
+
+This workshop code is licensed under the MIT License. Some portions are designed to work with proprietary software, such as MathWorks MATLAB, which is not included under this license. Users must have valid licenses for any required proprietary software to run these portions of the code.
 
 Supporting materials for UA Libraries selected workshops.
 
