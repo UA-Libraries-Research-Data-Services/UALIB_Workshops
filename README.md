@@ -7,7 +7,7 @@
 
 **License and Software Usage Notice**
 
-This workshop code is licensed under the MIT License. Some portions are designed to work with proprietary software, such as MathWorks MATLAB, which is not included under this license. Users must have valid licenses for any required proprietary software to run these portions of the code.
+This workshop code is licensed under the MIT License. However, these scripts may depend on external software and libraries, which must be installed separately and are subject to their own licenses. Please refer to their respective documentation for installation instructions and licensing details. Additionally, some workshop materials and code are designed to work with proprietary software, such as MathWorks MATLAB, which is not covered under this repository’s MIT License. Users must ensure they have valid licenses for any required proprietary software to use these components.
 
 Supporting materials for UA Libraries selected workshops.
 
